@@ -17,6 +17,7 @@ html, body {
 video {
     max-width: 100%;
     margin: 0 auto;
+    display: block;
 }
 
 h1 {
@@ -24,5 +25,4 @@ h1 {
     text-align: center;
     text-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
     font-size: 36px;
-
 }
